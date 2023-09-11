@@ -30,4 +30,4 @@ Lembretes:
 vim ~/.bashrc
 ```
 
-2- Se você executar o arquivo mais de uma vezz você terá os alias duplicados, podendo gerar algum tipo de conflito
+2- Se você executar o arquivo mais de uma vez você terá os alias duplicados, podendo gerar algum tipo de conflito
